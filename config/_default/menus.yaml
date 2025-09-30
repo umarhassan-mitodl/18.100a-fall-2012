@@ -1,0 +1,24 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 1a841896-d991-e406-781d-924cfcd2283c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0297b5cb-f87b-6d3d-1f02-978dd08e0420
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 5ff15742-57c1-98fd-1898-19d238ec0b48
+  name: Readings and Assignments
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 3a56d77f-c590-c5bb-eb01-ce7101c37a2d
+  name: Textbook Corrections
+  pageRef: /pages/readings/textbook-corrections
+  parent: 5ff15742-57c1-98fd-1898-19d238ec0b48
+  weight: 40
+- identifier: 6c47d19d-48ec-812a-299c-40b680625896
+  name: Exams
+  pageRef: /pages/exams
+  weight: 50

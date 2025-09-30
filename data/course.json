@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Logic"
+    ]
+  ],
+  "legacy_uid": "49d9b85a-0f4b-cb5c-0521-464955599ea4",
+  "instructors": {
+    "content": [
+      "583cc582-1f48-236c-af5a-b2f4750fef40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "98f513b4-c3f9-7e3e-7d4a-d701f3e2b350",
+    "website": "18-100a-introduction-to-analysis-fall-2012"
+  },
+  "course_title": "Introduction to Analysis",
+  "hide_download": true,
+  "course_description": "Analysis I (18.100) in its various versions covers fundamentals of mathematical analysis: continuity, differentiability, some form of the Riemann integral, sequences and series of numbers and functions, uniform convergence with applications to interchange of limit operations, some point-set topology, including some work in Euclidean n-space.\n\nMIT students may choose to take one of three versions of 18.100: Option A (18.100A) chooses less abstract definitions and proofs, and gives applications where possible. Option B (18.100B) is more demanding and for students with more mathematical maturity; it places more emphasis from the beginning on point-set topology and n-space, whereas Option A is concerned primarily with analysis on the real line, saving for the last weeks work in 2-space (the plane) and its point-set topology. Option C (18.100C) is a 15-unit variant of Option B, with further instruction and practice in written and oral communication.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.100A",
+  "course_image_thumbnail": {
+    "content": "3040e2a2-464c-980c-584b-6ef82a934971",
+    "website": "18-100a-introduction-to-analysis-fall-2012"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "820cceb0-06fe-4de8-8c57-e57ac2a4bac7",
+  "site_short_id": "18.100a-fall-2012",
+  "site_url_path": "courses/18-100a-introduction-to-analysis-fall-2012",
+  "title": "Course Metadata"
+}
