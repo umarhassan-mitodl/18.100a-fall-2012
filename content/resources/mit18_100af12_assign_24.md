@@ -4,8 +4,6 @@ description: This resource contains information regarding Leibniz and Fubini the
 file: /courses/18-100a-introduction-to-analysis-fall-2012/c339423054a77c70fc80c155ef578a03_MIT18_100AF12_Assign_24.pdf
 file_size: 70308
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

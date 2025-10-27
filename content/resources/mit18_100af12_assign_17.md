@@ -5,8 +5,6 @@ description: This resource contains information regarding stirling's formula; co
 file: /courses/18-100a-introduction-to-analysis-fall-2012/0ab4c6b7ede2924ec5ddaedf6584ec5c_MIT18_100AF12_Assign_17.pdf
 file_size: 523832
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

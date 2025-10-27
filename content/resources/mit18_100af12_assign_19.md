@@ -5,8 +5,6 @@ description: 'This resource contains information regarding differentiation: glob
 file: /courses/18-100a-introduction-to-analysis-fall-2012/f927ef5295760f3b3a88f4e401de1002_MIT18_100AF12_Assign_19.pdf
 file_size: 45241
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

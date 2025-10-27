@@ -5,8 +5,6 @@ description: Problem set on Riemann sums, the first fundamental theorem, the sec
 file: /courses/18-100a-introduction-to-analysis-fall-2012/8867aa333acec883ed244e808cedff43_MIT18_100AF12_Assign_16.pdf
 file_size: 60682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains information regarding examples of limits.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/fba43e4a8c64ff3e881926616cac91e2_MIT18_100AF12_Assign_2.pdf
 file_size: 61735
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

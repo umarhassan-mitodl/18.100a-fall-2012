@@ -5,8 +5,6 @@ description: 'This resource contains information regarding differentiation: loca
 file: /courses/18-100a-introduction-to-analysis-fall-2012/b016f7a93b625a4beba071bfba4f177a_MIT18_100AF12_Assign_12.pdf
 file_size: 528656
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the assignments for the course, which include readings
   and associated problems, and the preface, table of contents, sample sections, and
   corrections to the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Assignments

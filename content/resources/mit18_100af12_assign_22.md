@@ -4,8 +4,6 @@ description: This resource contains information regarding riemann integral.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/394ffc8765cc304504638311f48a056b_MIT18_100AF12_Assign_22.pdf
 file_size: 46427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: This resource contains information regarding textbook corrections t
 file: /courses/18-100a-introduction-to-analysis-fall-2012/f0874643e2859eed25bcab0dc0972158_MIT18_100AF12_Co2ndprint.pdf
 file_size: 530376
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
